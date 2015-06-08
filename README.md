@@ -18,3 +18,5 @@ This is basic notepade written using C# using basic functions in C#.
 
 ##Auto fill text box
 ![ScreenShot](https://github.com/udayanga91/Basic-Notepad-C-/blob/master/Screenshots/autoFill.png)
+
+##Speech text
