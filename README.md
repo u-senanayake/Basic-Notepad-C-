@@ -1,5 +1,5 @@
 # Basic-Notepad-C#
-This is basic notepade written in C# using basic functions in C#.
+This is basic notepade written using C# using basic functions in C#.
 
 ##Main view of the application
 ![ScreenShot](https://github.com/udayanga91/Basic-Notepad-C-/blob/master/Screenshots/1.PNG)
