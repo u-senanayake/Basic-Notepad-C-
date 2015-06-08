@@ -1,0 +1,10 @@
+E:\Projects\Blogs\C#\Post\Notepad\App\Notepad\Notepad\bin\Debug\Notepad.exe.config
+E:\Projects\Blogs\C#\Post\Notepad\App\Notepad\Notepad\bin\Debug\Notepad.exe
+E:\Projects\Blogs\C#\Post\Notepad\App\Notepad\Notepad\bin\Debug\Notepad.pdb
+E:\Projects\Blogs\C#\Post\Notepad\App\Notepad\Notepad\obj\Debug\Notepad.Form1.resources
+E:\Projects\Blogs\C#\Post\Notepad\App\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+E:\Projects\Blogs\C#\Post\Notepad\App\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.Cache
+E:\Projects\Blogs\C#\Post\Notepad\App\Notepad\Notepad\obj\Debug\Notepad.exe
+E:\Projects\Blogs\C#\Post\Notepad\App\Notepad\Notepad\obj\Debug\Notepad.pdb
+E:\Projects\Blogs\C#\Post\Notepad\App\Notepad\Notepad\obj\Debug\Notepad.csprojResolveAssemblyReference.cache
+E:\Projects\Blogs\C#\Post\Notepad\App\Notepad\Notepad\obj\Debug\Notepad.AboutBox1.resources
